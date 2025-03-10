@@ -1,7 +1,7 @@
 <?php
 /*
     Plugin Name: Replace Category
-    Description: A tool to replace a category in posts with another category.
+    Description: A plugin to bulk replace a category in posts with another category.
     Version: 1.0
     Author: Juliano Sill
 */
